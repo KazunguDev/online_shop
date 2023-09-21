@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860131151836",
+    "project_id": "online-shop-7b1b3",
+    "storage_bucket": "online-shop-7b1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860131151836:android:aa30f5ff1f11c90db6c919",
+        "android_client_info": {
+          "package_name": "com.kazungudev.online_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860131151836-idh6j63s6a6g7249ggvnr6pc77t4rhp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIVxn7E9lRCA7bWad4MQ6S6sM3568_HEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860131151836-idh6j63s6a6g7249ggvnr6pc77t4rhp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
